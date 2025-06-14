@@ -25,4 +25,4 @@ nulpunkter = np.interp(f[tegnSkift[0]], f[tegnSkift[0]+1], t[tegnSkift[0]])
 
 print(nulpunkter)
 
-#Hejsas
+#Hejsasß
